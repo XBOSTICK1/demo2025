@@ -49,7 +49,7 @@ vim /etc/net/sysctl.conf
 ```
 systemctl restart network
 ```
-### 2 Настройка NAT
+### 2 Настройка NAT в ISP
 
 Установка firewalld:
 ```
