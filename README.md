@@ -34,7 +34,7 @@ NM_CONTROLLED=no
 BOOTPROTO=static
 CONFIG_IPv4=yes
 выйти и сохранить изменения в vim :wq
-cp /etc/net/ifaces/ens34/options /etc/net/ifaces/ens**
+cp /etc/net/ifaces/ens34/options /etc/net/ifaces/ens35
 ```
 Выдача IP
 ```
